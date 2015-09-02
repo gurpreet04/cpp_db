@@ -7,5 +7,3 @@ int main()
 	cout<<"Hello";
 	return 0;
 }
-
-/* It is in Devlopemnent phase */
